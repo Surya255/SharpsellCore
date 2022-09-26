@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/light_compressor-Swift.h</key>
 		<data>
-		ViYuGX6+LNYJhX9p6WxZ1sXZNRM=
+		8BbipNlTBs98FEafi6d/JG15k/0=
 		</data>
 		<key>Headers/light_compressor-umbrella.h</key>
 		<data>
@@ -18,71 +18,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Wpl852Zg4njTpV7BuMZ205KCNqY=
+		LP72BEX/S9hvseKsWctFmgeU7c8=
 		</data>
 		<key>Modules/light_compressor.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		2O3gweMpn05vNeKjo9sXOgkkTT4=
-		</data>
-		<key>Modules/light_compressor.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		2O3gweMpn05vNeKjo9sXOgkkTT4=
+		JLoDOP9BAYfaP6fDq0TpiisZEoQ=
 		</data>
 		<key>Modules/light_compressor.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		tvl3KYQJN3upjr1s4ZDTrc58BYU=
-		</data>
-		<key>Modules/light_compressor.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		tvl3KYQJN3upjr1s4ZDTrc58BYU=
+		9JSZsFknSwmjfyNISu+XxF2rDoM=
 		</data>
 		<key>Modules/light_compressor.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		+yT8pECwQ8bI4ZUS0vQFipMdkhA=
+		6IKInUh+b1h1bQBxIG5HEAV5v58=
 		</data>
 		<key>Modules/light_compressor.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		79vFRDOPQpB1OpYc9ebkz29BfuM=
+		zBj2feGWBr59yhFfxnlkaA8Nxro=
 		</data>
 		<key>Modules/light_compressor.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		L3FcCvEYTgpfc8iiNuZd1uVcuhQ=
-		</data>
-		<key>Modules/light_compressor.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		+yT8pECwQ8bI4ZUS0vQFipMdkhA=
-		</data>
-		<key>Modules/light_compressor.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		79vFRDOPQpB1OpYc9ebkz29BfuM=
-		</data>
-		<key>Modules/light_compressor.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		L3FcCvEYTgpfc8iiNuZd1uVcuhQ=
+		yAD6ReuskkMg+oM04okaEPVad/c=
 		</data>
 		<key>Modules/light_compressor.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		v+DWJdBVAodoSmuht68up75kSe8=
+		T+JuIlRiclyINGIROGy/Cla9JvA=
 		</data>
 		<key>Modules/light_compressor.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		P1WY4kAf6l39kqBh2R/skJVcCRQ=
+		J3HbKxdavzq4+G4gs6bEeti+PE0=
 		</data>
 		<key>Modules/light_compressor.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Aq/udQOMcBIbIbdhf32FTxEPPEc=
-		</data>
-		<key>Modules/light_compressor.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		v+DWJdBVAodoSmuht68up75kSe8=
-		</data>
-		<key>Modules/light_compressor.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		P1WY4kAf6l39kqBh2R/skJVcCRQ=
-		</data>
-		<key>Modules/light_compressor.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		Aq/udQOMcBIbIbdhf32FTxEPPEc=
+		zU2+Yl162+bTPny0yO+gfVUtwfM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -106,11 +74,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ViYuGX6+LNYJhX9p6WxZ1sXZNRM=
+			8BbipNlTBs98FEafi6d/JG15k/0=
 			</data>
 			<key>hash2</key>
 			<data>
-			YpzTB6Vq7HRbWa3bA4/oU3+WangVCIqmcge/qaLgMEI=
+			AePdG6v2U5V6QqV3bFpaJ7Vb3je2V6cCf9pkKjUSBjo=
 			</data>
 		</dict>
 		<key>Headers/light_compressor-umbrella.h</key>
@@ -128,176 +96,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2O3gweMpn05vNeKjo9sXOgkkTT4=
+			JLoDOP9BAYfaP6fDq0TpiisZEoQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			+GqCXLU61J29VZHisrGyfCm7TSpo3KraVvvu7rX/Uqs=
-			</data>
-		</dict>
-		<key>Modules/light_compressor.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2O3gweMpn05vNeKjo9sXOgkkTT4=
-			</data>
-			<key>hash2</key>
-			<data>
-			+GqCXLU61J29VZHisrGyfCm7TSpo3KraVvvu7rX/Uqs=
+			XBsFzisuWVHMbgTZKtTcqx9RjShsRavTrllHo+ViuVA=
 			</data>
 		</dict>
 		<key>Modules/light_compressor.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tvl3KYQJN3upjr1s4ZDTrc58BYU=
+			9JSZsFknSwmjfyNISu+XxF2rDoM=
 			</data>
 			<key>hash2</key>
 			<data>
-			dei/MXQCvwI4Sd3nhekD343+7fjIGL2MexK5tgSlrrU=
-			</data>
-		</dict>
-		<key>Modules/light_compressor.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tvl3KYQJN3upjr1s4ZDTrc58BYU=
-			</data>
-			<key>hash2</key>
-			<data>
-			dei/MXQCvwI4Sd3nhekD343+7fjIGL2MexK5tgSlrrU=
+			J760btWoGEJVNMd++W2MdN6ZjcCy66os9S2JqaEYxFI=
 			</data>
 		</dict>
 		<key>Modules/light_compressor.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+yT8pECwQ8bI4ZUS0vQFipMdkhA=
+			6IKInUh+b1h1bQBxIG5HEAV5v58=
 			</data>
 			<key>hash2</key>
 			<data>
-			k+C4YQuNLpZee7mikQZZuWr8G1EDMp0pcNFNSzQ2y3I=
+			wZGK48hdsQblhVeqvg6MZSfGmKj30g3r1+ZaLNpHxio=
 			</data>
 		</dict>
 		<key>Modules/light_compressor.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			79vFRDOPQpB1OpYc9ebkz29BfuM=
+			zBj2feGWBr59yhFfxnlkaA8Nxro=
 			</data>
 			<key>hash2</key>
 			<data>
-			iqFuhjdeX2tXx/nPZeR+AXj//LFp98F03kx6DF6FRlk=
+			FJUJOOzuf7XTxSG/yzcmmCweIj1WP8bedxMOHzwwGG0=
 			</data>
 		</dict>
 		<key>Modules/light_compressor.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L3FcCvEYTgpfc8iiNuZd1uVcuhQ=
+			yAD6ReuskkMg+oM04okaEPVad/c=
 			</data>
 			<key>hash2</key>
 			<data>
-			LVFH7PQmoQIsv/MBry933CeTW0iVaq+q8ks9CxXgGrQ=
-			</data>
-		</dict>
-		<key>Modules/light_compressor.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+yT8pECwQ8bI4ZUS0vQFipMdkhA=
-			</data>
-			<key>hash2</key>
-			<data>
-			k+C4YQuNLpZee7mikQZZuWr8G1EDMp0pcNFNSzQ2y3I=
-			</data>
-		</dict>
-		<key>Modules/light_compressor.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			79vFRDOPQpB1OpYc9ebkz29BfuM=
-			</data>
-			<key>hash2</key>
-			<data>
-			iqFuhjdeX2tXx/nPZeR+AXj//LFp98F03kx6DF6FRlk=
-			</data>
-		</dict>
-		<key>Modules/light_compressor.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			L3FcCvEYTgpfc8iiNuZd1uVcuhQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			LVFH7PQmoQIsv/MBry933CeTW0iVaq+q8ks9CxXgGrQ=
+			fgR3goeutlF5tz4g+YjyE78vQaYFbZbWy4MCluJ5zxU=
 			</data>
 		</dict>
 		<key>Modules/light_compressor.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v+DWJdBVAodoSmuht68up75kSe8=
+			T+JuIlRiclyINGIROGy/Cla9JvA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Msz6m/N44UPR53kPB0Hjl8KCBactdJqEW5ZcwGI73as=
+			zw2yUtiAc2zDXoC4dgsw/cCf4akIhNsV5lN8bHAXyLc=
 			</data>
 		</dict>
 		<key>Modules/light_compressor.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P1WY4kAf6l39kqBh2R/skJVcCRQ=
+			J3HbKxdavzq4+G4gs6bEeti+PE0=
 			</data>
 			<key>hash2</key>
 			<data>
-			nkv0jwxSXpO7AvLHYlytblt3qSpiNmKGsQqSpu2DmD0=
+			dcvHJeKrL14NOEpzd1t+zhF4pFf06wQggiqKG77jGp8=
 			</data>
 		</dict>
 		<key>Modules/light_compressor.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Aq/udQOMcBIbIbdhf32FTxEPPEc=
+			zU2+Yl162+bTPny0yO+gfVUtwfM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZWecJQsWsIXixxEF9WdojH3pW+NN2eP16Hwn4oA/TeA=
-			</data>
-		</dict>
-		<key>Modules/light_compressor.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			v+DWJdBVAodoSmuht68up75kSe8=
-			</data>
-			<key>hash2</key>
-			<data>
-			Msz6m/N44UPR53kPB0Hjl8KCBactdJqEW5ZcwGI73as=
-			</data>
-		</dict>
-		<key>Modules/light_compressor.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			P1WY4kAf6l39kqBh2R/skJVcCRQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			nkv0jwxSXpO7AvLHYlytblt3qSpiNmKGsQqSpu2DmD0=
-			</data>
-		</dict>
-		<key>Modules/light_compressor.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Aq/udQOMcBIbIbdhf32FTxEPPEc=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZWecJQsWsIXixxEF9WdojH3pW+NN2eP16Hwn4oA/TeA=
+			En7B2sCAKExDNnEnqX9RXEXBEEodlUk2GycXvN1pzVU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

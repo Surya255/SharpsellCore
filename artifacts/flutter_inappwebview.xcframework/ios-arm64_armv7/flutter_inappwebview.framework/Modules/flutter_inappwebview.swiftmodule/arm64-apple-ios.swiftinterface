@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
 // swift-module-flags: -target arm64-apple-ios10.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name flutter_inappwebview
 import AVFoundation
 import Flutter
@@ -15,6 +15,12 @@ import _Concurrency
   @objc public static func register(with registrar: Flutter.FlutterPluginRegistrar)
   @objc public func handle(_ call: Flutter.FlutterMethodCall, result: @escaping Flutter.FlutterResult)
   public func open(id: Swift.String, url: Swift.String, options: [Swift.String : Any?], menuItemList: [[Swift.String : Any]], result: @escaping Flutter.FlutterResult)
+  public func dispose()
+  @objc deinit
+}
+@objc public class DownloadStartRequest : ObjectiveC.NSObject {
+  public init(url: Swift.String, userAgent: Swift.String?, contentDisposition: Swift.String?, mimeType: Swift.String?, contentLength: Swift.Int64, suggestedFilename: Swift.String?, textEncodingName: Swift.String?)
+  public func toMap() -> [Swift.String : Any?]
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers public class FlutterMethodCallDelegate : ObjectiveC.NSObject {
@@ -46,6 +52,7 @@ import _Concurrency
   @objc public static func register(with registrar: Flutter.FlutterPluginRegistrar)
   @objc public func handle(_ call: Flutter.FlutterMethodCall, result: @escaping Flutter.FlutterResult)
   public static func run(id: Swift.String, params: [Swift.String : Any?])
+  public func dispose()
   @objc deinit
 }
 public enum HitTestResultType : Swift.Int {
@@ -84,6 +91,7 @@ public protocol InAppBrowserDelegate {
   public func open(arguments: Foundation.NSDictionary)
   public func presentViewController(webViewController: flutter_inappwebview.InAppBrowserWebViewController)
   public func openWithSystemBrowser(url: Swift.String, result: @escaping Flutter.FlutterResult)
+  public func dispose()
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class InAppBrowserNavigationController : UIKit.UINavigationController {
@@ -208,7 +216,7 @@ public protocol InAppBrowserDelegate {
   @_Concurrency.MainActor(unsafe) public func onScrollChanged(x: Swift.Int, y: Swift.Int)
   @_Concurrency.MainActor(unsafe) public func onZoomScaleChanged(newScale: Swift.Float, oldScale: Swift.Float)
   @_Concurrency.MainActor(unsafe) public func onOverScrolled(x: Swift.Int, y: Swift.Int, clampedX: Swift.Bool, clampedY: Swift.Bool)
-  @_Concurrency.MainActor(unsafe) public func onDownloadStart(url: Swift.String)
+  @_Concurrency.MainActor(unsafe) public func onDownloadStartRequest(request: flutter_inappwebview.DownloadStartRequest)
   @_Concurrency.MainActor(unsafe) public func onLoadResourceCustomScheme(url: Swift.String, result: Flutter.FlutterResult?)
   @_Concurrency.MainActor(unsafe) public func shouldOverrideUrlLoading(navigationAction: WebKit.WKNavigationAction, result: Flutter.FlutterResult?)
   @_Concurrency.MainActor(unsafe) public func onNavigationResponse(navigationResponse: WebKit.WKNavigationResponse, result: Flutter.FlutterResult?)
@@ -239,6 +247,7 @@ public protocol InAppBrowserDelegate {
   @_Concurrency.MainActor(unsafe) public func printCurrentPage(printCompletionHandler: ((_ completed: Swift.Bool, _ error: Swift.Error?) -> Swift.Void)?)
   @_Concurrency.MainActor(unsafe) public func getContentHeight() -> Swift.Int64
   @_Concurrency.MainActor(unsafe) public func zoomBy(zoomFactor: Swift.Float, animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) public func getOriginalUrl() -> Foundation.URL?
   @_Concurrency.MainActor(unsafe) public func getZoomScale() -> Swift.Float
   @_Concurrency.MainActor(unsafe) public func getSelectedText(completionHandler: @escaping (Any?, Swift.Error?) -> Swift.Void)
   @_Concurrency.MainActor(unsafe) public func getHitTestResult(completionHandler: @escaping (flutter_inappwebview.HitTestResult) -> Swift.Void)
@@ -257,9 +266,13 @@ public protocol InAppBrowserDelegate {
   @_Concurrency.MainActor(unsafe) public func disposeWebMessageChannels()
   @_Concurrency.MainActor(unsafe) public func dispose()
   @objc deinit
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public var inputAccessoryView: UIKit.UIView? {
+    @_Concurrency.MainActor(unsafe) @objc get
+  }
 }
 @objc @_hasMissingDesignatedInitializers public class InAppWebViewMethodHandler : flutter_inappwebview.FlutterMethodCallDelegate {
   override public func handle(_ call: Flutter.FlutterMethodCall, result: @escaping Flutter.FlutterResult)
+  public func dispose()
   @objc deinit
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objcMembers public class InAppWebViewOptions : flutter_inappwebview.Options<flutter_inappwebview.InAppWebView> {
@@ -359,6 +372,7 @@ public protocol PullToRefreshDelegate {
 @objc public class SwiftFlutterPlugin : ObjectiveC.NSObject, Flutter.FlutterPlugin {
   public init(with registrar: Flutter.FlutterPluginRegistrar)
   @objc public static func register(with registrar: Flutter.FlutterPluginRegistrar)
+  @objc public func detachFromEngine(for registrar: Flutter.FlutterPluginRegistrar)
   @objc deinit
 }
 extension Foundation.URLAuthenticationChallenge {

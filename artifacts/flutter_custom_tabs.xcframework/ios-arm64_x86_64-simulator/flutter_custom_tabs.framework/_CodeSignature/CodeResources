@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/flutter_custom_tabs-Swift.h</key>
 		<data>
-		Kmbz07r/ZXU6c7GQvpmjTy+Uhc0=
+		omyG4WilDO+rfjqc1+g3YMqecoo=
 		</data>
 		<key>Headers/flutter_custom_tabs-umbrella.h</key>
 		<data>
@@ -18,71 +18,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lJiyeieEN+tDb99fYqItGXWOKf8=
+		LPyy/h1bNnCcE5/GrFD2eJgLuA4=
 		</data>
 		<key>Modules/flutter_custom_tabs.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		n9iY05PThvwCllEPsezAN5W5zls=
-		</data>
-		<key>Modules/flutter_custom_tabs.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		n9iY05PThvwCllEPsezAN5W5zls=
+		XlMIWqyGl5xZw+Bpa8AxHof4Cr8=
 		</data>
 		<key>Modules/flutter_custom_tabs.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		mB1CjHLmztvCE278alpV3VEqTOs=
-		</data>
-		<key>Modules/flutter_custom_tabs.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		mB1CjHLmztvCE278alpV3VEqTOs=
+		ZqNeLUwh3QGUKPrt2sPaaFYr2fM=
 		</data>
 		<key>Modules/flutter_custom_tabs.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		uRR+v8pluQ9BRaVe8a9mu5ndk0k=
+		Yu1sHgOj9r9WwQ2vXqXFnQv1wZk=
 		</data>
 		<key>Modules/flutter_custom_tabs.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ySAC/QQHu4v+UiN0R4AMX/wpLMU=
+		w6Fk8h9HU7uxnW2Bro3FohmFTaU=
 		</data>
 		<key>Modules/flutter_custom_tabs.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HS20FF/j9QeqAdkd8GnEq9BAJZA=
-		</data>
-		<key>Modules/flutter_custom_tabs.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		uRR+v8pluQ9BRaVe8a9mu5ndk0k=
-		</data>
-		<key>Modules/flutter_custom_tabs.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		ySAC/QQHu4v+UiN0R4AMX/wpLMU=
-		</data>
-		<key>Modules/flutter_custom_tabs.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		HS20FF/j9QeqAdkd8GnEq9BAJZA=
+		oXrFiZ5diLaLtZ39KMHr/vLb/tQ=
 		</data>
 		<key>Modules/flutter_custom_tabs.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		q5Oejk1eNhJu7/UHxDTSLr/LHGo=
+		pAv2lau09wIanivB5NCQlw7DfFI=
 		</data>
 		<key>Modules/flutter_custom_tabs.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		N3lGOLCksFJBGNmf+15Fa5k7dj0=
+		KxVkS9aU7AT8UjpJ6joN1RZ0VqM=
 		</data>
 		<key>Modules/flutter_custom_tabs.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NW8VYUIFCMQM0P9r2LUBWGLd2rQ=
-		</data>
-		<key>Modules/flutter_custom_tabs.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		q5Oejk1eNhJu7/UHxDTSLr/LHGo=
-		</data>
-		<key>Modules/flutter_custom_tabs.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		N3lGOLCksFJBGNmf+15Fa5k7dj0=
-		</data>
-		<key>Modules/flutter_custom_tabs.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		NW8VYUIFCMQM0P9r2LUBWGLd2rQ=
+		Ks64tROOMF+5bkHophF+ZRDx6sI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -106,11 +74,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Kmbz07r/ZXU6c7GQvpmjTy+Uhc0=
+			omyG4WilDO+rfjqc1+g3YMqecoo=
 			</data>
 			<key>hash2</key>
 			<data>
-			2s7u0GoY9JNT4Ilpg70yPTS2eV2pLXMbjJiFGaKpvOo=
+			6x9ZN7oLELKommB55qgvfm0pBLQCQU44zsahAbwl3yg=
 			</data>
 		</dict>
 		<key>Headers/flutter_custom_tabs-umbrella.h</key>
@@ -128,176 +96,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n9iY05PThvwCllEPsezAN5W5zls=
+			XlMIWqyGl5xZw+Bpa8AxHof4Cr8=
 			</data>
 			<key>hash2</key>
 			<data>
-			oJubq9xhp/yeF4u7CnO0H3hhcrn9MDi8QIzwzlD8W78=
-			</data>
-		</dict>
-		<key>Modules/flutter_custom_tabs.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			n9iY05PThvwCllEPsezAN5W5zls=
-			</data>
-			<key>hash2</key>
-			<data>
-			oJubq9xhp/yeF4u7CnO0H3hhcrn9MDi8QIzwzlD8W78=
+			DD4vIoZ2UuNPtZ6efgq9Ao1jqMIj22eyVZoKNsMjq5c=
 			</data>
 		</dict>
 		<key>Modules/flutter_custom_tabs.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mB1CjHLmztvCE278alpV3VEqTOs=
+			ZqNeLUwh3QGUKPrt2sPaaFYr2fM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xaZVE9+v6R5IMuAPkLnQ8IwSTb8Z8JOCxZqFqLiTSdM=
-			</data>
-		</dict>
-		<key>Modules/flutter_custom_tabs.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mB1CjHLmztvCE278alpV3VEqTOs=
-			</data>
-			<key>hash2</key>
-			<data>
-			xaZVE9+v6R5IMuAPkLnQ8IwSTb8Z8JOCxZqFqLiTSdM=
+			zfstpmkU829na4Bp89rhDMLBq/SC7Hu12JjlVa6kaHk=
 			</data>
 		</dict>
 		<key>Modules/flutter_custom_tabs.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uRR+v8pluQ9BRaVe8a9mu5ndk0k=
+			Yu1sHgOj9r9WwQ2vXqXFnQv1wZk=
 			</data>
 			<key>hash2</key>
 			<data>
-			aHcQP42asbni14MEXi+JkljVdZgnZ3rG5Mcwj/PG2Lg=
+			x2dt5A8ITObQmJu1FCCWY5AZnahMxrEnmHZLaMQ86aQ=
 			</data>
 		</dict>
 		<key>Modules/flutter_custom_tabs.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ySAC/QQHu4v+UiN0R4AMX/wpLMU=
+			w6Fk8h9HU7uxnW2Bro3FohmFTaU=
 			</data>
 			<key>hash2</key>
 			<data>
-			rmcfxhw9v4WRPzBkniNwEXdmnlSY6RTc7is/kV69WNY=
+			woZtTwYGK836/4ike7fMJFx/IvANq9rCd8FmF7fHs6g=
 			</data>
 		</dict>
 		<key>Modules/flutter_custom_tabs.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HS20FF/j9QeqAdkd8GnEq9BAJZA=
+			oXrFiZ5diLaLtZ39KMHr/vLb/tQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			6VQ3nWdzH80z17OqAp/olsAXTEtS44YYV0fHwdTc6T8=
-			</data>
-		</dict>
-		<key>Modules/flutter_custom_tabs.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			uRR+v8pluQ9BRaVe8a9mu5ndk0k=
-			</data>
-			<key>hash2</key>
-			<data>
-			aHcQP42asbni14MEXi+JkljVdZgnZ3rG5Mcwj/PG2Lg=
-			</data>
-		</dict>
-		<key>Modules/flutter_custom_tabs.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ySAC/QQHu4v+UiN0R4AMX/wpLMU=
-			</data>
-			<key>hash2</key>
-			<data>
-			rmcfxhw9v4WRPzBkniNwEXdmnlSY6RTc7is/kV69WNY=
-			</data>
-		</dict>
-		<key>Modules/flutter_custom_tabs.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HS20FF/j9QeqAdkd8GnEq9BAJZA=
-			</data>
-			<key>hash2</key>
-			<data>
-			6VQ3nWdzH80z17OqAp/olsAXTEtS44YYV0fHwdTc6T8=
+			D1GoQGQG/21OE6YiOmtUjJjmcMlXz3zDIUdN5DUKAhY=
 			</data>
 		</dict>
 		<key>Modules/flutter_custom_tabs.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q5Oejk1eNhJu7/UHxDTSLr/LHGo=
+			pAv2lau09wIanivB5NCQlw7DfFI=
 			</data>
 			<key>hash2</key>
 			<data>
-			hPb99wCDffo2XGWSkS9lwGRZs5UnjCba9xDJTwdsw9Q=
+			n1ZSF8CagnyVH+CKINsN54UFzlvF5akkZIWP+FycgHQ=
 			</data>
 		</dict>
 		<key>Modules/flutter_custom_tabs.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N3lGOLCksFJBGNmf+15Fa5k7dj0=
+			KxVkS9aU7AT8UjpJ6joN1RZ0VqM=
 			</data>
 			<key>hash2</key>
 			<data>
-			N/87RqyxYK8OAm2MIT1Rk96FrVUSWdIMzKqzCwJ7/Ls=
+			lgRVsENBHSLbJcH/GDB37ADJXoL8kiayxlLjQsNhyn0=
 			</data>
 		</dict>
 		<key>Modules/flutter_custom_tabs.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NW8VYUIFCMQM0P9r2LUBWGLd2rQ=
+			Ks64tROOMF+5bkHophF+ZRDx6sI=
 			</data>
 			<key>hash2</key>
 			<data>
-			KaljlK2yk0NuVshJBmnFtp8Cjf+vl3GMvZvBXbn5hng=
-			</data>
-		</dict>
-		<key>Modules/flutter_custom_tabs.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			q5Oejk1eNhJu7/UHxDTSLr/LHGo=
-			</data>
-			<key>hash2</key>
-			<data>
-			hPb99wCDffo2XGWSkS9lwGRZs5UnjCba9xDJTwdsw9Q=
-			</data>
-		</dict>
-		<key>Modules/flutter_custom_tabs.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			N3lGOLCksFJBGNmf+15Fa5k7dj0=
-			</data>
-			<key>hash2</key>
-			<data>
-			N/87RqyxYK8OAm2MIT1Rk96FrVUSWdIMzKqzCwJ7/Ls=
-			</data>
-		</dict>
-		<key>Modules/flutter_custom_tabs.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NW8VYUIFCMQM0P9r2LUBWGLd2rQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			KaljlK2yk0NuVshJBmnFtp8Cjf+vl3GMvZvBXbn5hng=
+			w8nEooihQZt1ZCYahFP+SICycPwI9mPMy+/kRUXWkEA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

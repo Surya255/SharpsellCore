@@ -6,27 +6,27 @@
 	<dict>
 		<key>Headers/TOActivityCroppedImageProvider.h</key>
 		<data>
-		WSxzCqhQDUHwrX0+RvboCXgQHKw=
+		LHUxsGNMCXcZYi9zRYZns/MceJ8=
 		</data>
 		<key>Headers/TOCropOverlayView.h</key>
 		<data>
-		6rFOz1C/YdPhf9m8sc6T6VNMD4M=
+		Lm6zkZuYDigI8ivDBYL/o3Nrg1s=
 		</data>
 		<key>Headers/TOCropScrollView.h</key>
 		<data>
-		IfLgxtO25cDgK7LVCjaelGRc16E=
+		ZoK4AHuI16p8/Bw+Pk//7OdxK2w=
 		</data>
 		<key>Headers/TOCropToolbar.h</key>
 		<data>
-		c0+cR4KR3ZsSRGpHVTNWXtzLSK0=
+		7Ns0mucu/csZfiME3RZcdffygHQ=
 		</data>
 		<key>Headers/TOCropView.h</key>
 		<data>
-		q85brlRLxVhTh6xuPIvIwUMjmI8=
+		oKtzfwgWH+eIOzwiGU7TUV3faB0=
 		</data>
 		<key>Headers/TOCropViewConstants.h</key>
 		<data>
-		VqmZvXhWEUfY7NJllcUKYjqfk1Y=
+		jod7IUHequEiMX/Ir6yQHz3RBz0=
 		</data>
 		<key>Headers/TOCropViewController-umbrella.h</key>
 		<data>
@@ -34,23 +34,23 @@
 		</data>
 		<key>Headers/TOCropViewController.h</key>
 		<data>
-		eD7pDwVQQT31iEF+yoi8UmijBPQ=
+		ejNJtC8lOVoqvFYWs3xaYJJz1es=
 		</data>
 		<key>Headers/TOCropViewControllerTransitioning.h</key>
 		<data>
-		ioO0txFkMV1Mpr3Tbj4pfm3kG/U=
+		uU2w/45QQ0LWxejCVjDkHAtUObk=
 		</data>
 		<key>Headers/TOCroppedImageAttributes.h</key>
 		<data>
-		Y9gwNk3aERiS0oQ7UKuJC4IK1pI=
+		8kW5h+b7jU1xBkSYJXpEkqB+Eys=
 		</data>
 		<key>Headers/UIImage+CropRotate.h</key>
 		<data>
-		pieLVjYgjpj+5bi1tl7KTDHX+CY=
+		rvkErlzbQA/hU7YlonzFrgjSbQM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sXGKfOshpZZtOnCT6e/sTAac1fA=
+		1OqcnRxHuI2NCtKEou6+MReOFq0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,11 +67,11 @@
 		</dict>
 		<key>TOCropViewControllerBundle.bundle/Info.plist</key>
 		<data>
-		/3NLsjCUwJJxNuhME0IuBBU/We8=
+		T7ZMtbcXY0MkpD+syFEqQzIS+G0=
 		</data>
 		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		Aab6TSPqphE/t56o3xWAZVqbakw=
+		9J+mToCxFXzMyxShiN3FnZmi+h0=
 		</data>
 		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -79,11 +79,11 @@
 		</data>
 		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		rZQyxJHdl5SYEZjkwFMRkpuKzoQ=
+		NO/KdTL11vAh2q9dqLEVNfA+PHI=
 		</data>
 		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		BS5PhsDnAanglgHnWvQX/JDvYeU=
+		C7/aLlEb0NDhH+3ivnOtZnuf0UU=
 		</data>
 		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -219,7 +219,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ec0FMlpxwXr+kMjvlO4AjGT4kME=
+			Iwh4b74rKw69c3ajJ6GBbESqJcY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -348,66 +348,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WSxzCqhQDUHwrX0+RvboCXgQHKw=
+			LHUxsGNMCXcZYi9zRYZns/MceJ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			6CgxHRpQAV5+Snv1NvgmFxFRBa/8n6WHEowGceiSgyI=
+			/v6jgsXOfmJbLo62deRkZElJ6T1bTIrRjc8m9UlRBnY=
 			</data>
 		</dict>
 		<key>Headers/TOCropOverlayView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6rFOz1C/YdPhf9m8sc6T6VNMD4M=
+			Lm6zkZuYDigI8ivDBYL/o3Nrg1s=
 			</data>
 			<key>hash2</key>
 			<data>
-			Na7MwzCI92vlJVn1tt4IWArUQHJ16ATmZQOFooQvX/I=
+			9JAO0iy00b2wNcJ0I0PJzpjCG5NYgYdqQ2LvGh/XF5s=
 			</data>
 		</dict>
 		<key>Headers/TOCropScrollView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IfLgxtO25cDgK7LVCjaelGRc16E=
+			ZoK4AHuI16p8/Bw+Pk//7OdxK2w=
 			</data>
 			<key>hash2</key>
 			<data>
-			G27ff5N15lti9HSIMz/gGM37U6QBcBjnDRviOzUIlZc=
+			BJB4QoTbnqH6x+j89OYwc6/KrILjYcWeJWRawwc92tw=
 			</data>
 		</dict>
 		<key>Headers/TOCropToolbar.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c0+cR4KR3ZsSRGpHVTNWXtzLSK0=
+			7Ns0mucu/csZfiME3RZcdffygHQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			20n3naNps/oFDLs7d7YDE6MXdl++hZOedKNUBaTREtI=
+			hM1bYKADt+dtMXHqDkOUPANURhUPfs5J4FukGdk00T0=
 			</data>
 		</dict>
 		<key>Headers/TOCropView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q85brlRLxVhTh6xuPIvIwUMjmI8=
+			oKtzfwgWH+eIOzwiGU7TUV3faB0=
 			</data>
 			<key>hash2</key>
 			<data>
-			zLrS9gj/wShDzUnWU6q3BO8JyRDLxPGOiLW2ih2h09Y=
+			WcxoP8JTgHIfQx5U0Zx5I3ZS1271ruwwB9Nw5wUFycU=
 			</data>
 		</dict>
 		<key>Headers/TOCropViewConstants.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VqmZvXhWEUfY7NJllcUKYjqfk1Y=
+			jod7IUHequEiMX/Ir6yQHz3RBz0=
 			</data>
 			<key>hash2</key>
 			<data>
-			zAJpItrsf7GZ00Cq7rDpk4ZZnoiU94zb1KlczDAM++A=
+			CtxbtA+Da6jQPZHNV6AwitUU3Ymf+gXKW1D8uFObn0g=
 			</data>
 		</dict>
 		<key>Headers/TOCropViewController-umbrella.h</key>
@@ -425,44 +425,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eD7pDwVQQT31iEF+yoi8UmijBPQ=
+			ejNJtC8lOVoqvFYWs3xaYJJz1es=
 			</data>
 			<key>hash2</key>
 			<data>
-			1fqtO1rzBhixuNXGPuqMtUPa6tQeO96pZsszBzmwx30=
+			zvYlvZzAuwH/CgUdebn/E0cWuREj0FlBqf/aEObdMac=
 			</data>
 		</dict>
 		<key>Headers/TOCropViewControllerTransitioning.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ioO0txFkMV1Mpr3Tbj4pfm3kG/U=
+			uU2w/45QQ0LWxejCVjDkHAtUObk=
 			</data>
 			<key>hash2</key>
 			<data>
-			xklPSiAIQkizxeoju7JhfCiiaDUBpjwdazcWDNxxwSw=
+			FvX3DBg9U5tNl8ijqZRJC5mANvMPuEibStMTG+7Jnh8=
 			</data>
 		</dict>
 		<key>Headers/TOCroppedImageAttributes.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Y9gwNk3aERiS0oQ7UKuJC4IK1pI=
+			8kW5h+b7jU1xBkSYJXpEkqB+Eys=
 			</data>
 			<key>hash2</key>
 			<data>
-			s3+LT1t4lhmJr+1n8vbm3ZQuiSgq+w7f00EspOWgFrc=
+			9P53F1cxin3Q+haq7zbO32xurIA3DDN8vfoHVif0oSQ=
 			</data>
 		</dict>
 		<key>Headers/UIImage+CropRotate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pieLVjYgjpj+5bi1tl7KTDHX+CY=
+			rvkErlzbQA/hU7YlonzFrgjSbQM=
 			</data>
 			<key>hash2</key>
 			<data>
-			2g6U69VQdJvYJD5WufdtV64981ZD0/RCox0USppOjdY=
+			Y4ZAOz/xDO1jpHkGkGVBoJzaYkiloBP5EiNYEUTY+4k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -493,22 +493,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/3NLsjCUwJJxNuhME0IuBBU/We8=
+			T7ZMtbcXY0MkpD+syFEqQzIS+G0=
 			</data>
 			<key>hash2</key>
 			<data>
-			zxJM3IrdAs961Um92632OhR0jsqu8n8LHBtdMG7YN2I=
+			O4j/eIfJfEak/z92hqLn6+AVZiEDtfft+h0YgYLon6U=
 			</data>
 		</dict>
 		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Aab6TSPqphE/t56o3xWAZVqbakw=
+			9J+mToCxFXzMyxShiN3FnZmi+h0=
 			</data>
 			<key>hash2</key>
 			<data>
-			z2gYlztAmOYDDT/v0u5NzkW1YZ8psZ3om/mqNV9luJE=
+			x+Iy6yTJqh9yCyeHDfdYvrsnwnJsytZhQNTrPDMvzlg=
 			</data>
 		</dict>
 		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements</key>
@@ -526,22 +526,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rZQyxJHdl5SYEZjkwFMRkpuKzoQ=
+			NO/KdTL11vAh2q9dqLEVNfA+PHI=
 			</data>
 			<key>hash2</key>
 			<data>
-			IvCtxshwITxxI+xXEUvPEV1t/0DPLY2oVBRMZ+7YLmQ=
+			vUXyXG2XYcCkrfysBCExiMgjUBi1UYX9uZ2lhVDWiaQ=
 			</data>
 		</dict>
 		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BS5PhsDnAanglgHnWvQX/JDvYeU=
+			C7/aLlEb0NDhH+3ivnOtZnuf0UU=
 			</data>
 			<key>hash2</key>
 			<data>
-			8TVAYBE5lhuGY2URHxIat2R/LQOF+zEtLgWQ1BicfEE=
+			F5MgjS3dFsysZkfUShocwdJfxGNf0k255lylQI2gZT0=
 			</data>
 		</dict>
 		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeSignature</key>
@@ -741,11 +741,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ec0FMlpxwXr+kMjvlO4AjGT4kME=
+			Iwh4b74rKw69c3ajJ6GBbESqJcY=
 			</data>
 			<key>hash2</key>
 			<data>
-			g08XOwnCfbysHfLiDfdqqhzDafk/jmsDKiSc8Og7I3k=
+			ZVvNCp0WDyjoB3PsKvxDnYX/3oZwWAkKXWhkN8fOjK0=
 			</data>
 			<key>optional</key>
 			<true/>

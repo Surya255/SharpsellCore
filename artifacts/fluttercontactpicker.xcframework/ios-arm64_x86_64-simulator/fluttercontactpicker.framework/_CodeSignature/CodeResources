@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/FlutterContactPickerPlugin.h</key>
 		<data>
-		TwaF9mqG5md5HsoHISfh4hQD0kE=
+		tokiMzgA3vUcGqY2hNMgBdB1lLM=
 		</data>
 		<key>Headers/fluttercontactpicker-Swift.h</key>
 		<data>
-		Xz9D+hK2fZHl7ITIYnxRQDuGXiw=
+		0F/cOMkFUtMhaAnl09RrnuRKrlE=
 		</data>
 		<key>Headers/fluttercontactpicker-umbrella.h</key>
 		<data>
@@ -18,71 +18,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nU1T47SVsm/5RTfQpKbsaG0f6ck=
+		DaJps4DTzupcKBYEFUKJX/i8NxE=
 		</data>
 		<key>Modules/fluttercontactpicker.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		VlTX+/MFcGhIfdPM/6dW9rZTMSg=
-		</data>
-		<key>Modules/fluttercontactpicker.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		VlTX+/MFcGhIfdPM/6dW9rZTMSg=
+		h0HAhsRbYPwBk5pHhot2MVIkUxs=
 		</data>
 		<key>Modules/fluttercontactpicker.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		BUkEM5MncIOIUfMNdF2mIPr8U1Q=
-		</data>
-		<key>Modules/fluttercontactpicker.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		BUkEM5MncIOIUfMNdF2mIPr8U1Q=
+		9Is5zwc5iKauWfrRq17bnt9tWPk=
 		</data>
 		<key>Modules/fluttercontactpicker.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		RiM6vmmfSqt6SCl1uqsert852Rw=
+		dxpKxMNicbGPnMNqukFq1Y/+ZjA=
 		</data>
 		<key>Modules/fluttercontactpicker.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		UW67ddtdX4gdmaPXVUxfj8S7Yv4=
+		lysqD1cAswf5c3rqlv2q1A1lHaA=
 		</data>
 		<key>Modules/fluttercontactpicker.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9CcynXYc8/8Q0U+0hsyG2IBqwBw=
-		</data>
-		<key>Modules/fluttercontactpicker.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		RiM6vmmfSqt6SCl1uqsert852Rw=
-		</data>
-		<key>Modules/fluttercontactpicker.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		UW67ddtdX4gdmaPXVUxfj8S7Yv4=
-		</data>
-		<key>Modules/fluttercontactpicker.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		9CcynXYc8/8Q0U+0hsyG2IBqwBw=
+		p7DJIHO91QXsxOHB61iHl3wi4A8=
 		</data>
 		<key>Modules/fluttercontactpicker.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		vkrvEUAjDHU4rZL6PQrWMbERGDw=
+		Q/JKXpU+jRSy3rBN7lh3xwCxmoY=
 		</data>
 		<key>Modules/fluttercontactpicker.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+4sGaiZWP/UEEWQJfT/K9IwErpM=
+		HG+vHuYcwjnKfVO3oYdtP7E9OnI=
 		</data>
 		<key>Modules/fluttercontactpicker.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BjcfGTkvVPG+XN0HVyF/vh6Xpys=
-		</data>
-		<key>Modules/fluttercontactpicker.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		vkrvEUAjDHU4rZL6PQrWMbERGDw=
-		</data>
-		<key>Modules/fluttercontactpicker.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		+4sGaiZWP/UEEWQJfT/K9IwErpM=
-		</data>
-		<key>Modules/fluttercontactpicker.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		BjcfGTkvVPG+XN0HVyF/vh6Xpys=
+		kE5jMVdooDBej5l1233fMrkscys=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,22 +63,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TwaF9mqG5md5HsoHISfh4hQD0kE=
+			tokiMzgA3vUcGqY2hNMgBdB1lLM=
 			</data>
 			<key>hash2</key>
 			<data>
-			7WZMYYtUQLiglvfYg85jIsrd7ZL1RubLfSmL74ojJjY=
+			DdLdRCh5cgBUcHg1wN1l0SJTPfpOh3zfZWgpPEb/p9g=
 			</data>
 		</dict>
 		<key>Headers/fluttercontactpicker-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Xz9D+hK2fZHl7ITIYnxRQDuGXiw=
+			0F/cOMkFUtMhaAnl09RrnuRKrlE=
 			</data>
 			<key>hash2</key>
 			<data>
-			slNzHx5lwqMJYNv6L2qxnPjanyQ4bde3ZqxGMEyYx8A=
+			rGzsO2g25y7p8KxECIOE9g0hxmlXW+lPC9FJRurTT04=
 			</data>
 		</dict>
 		<key>Headers/fluttercontactpicker-umbrella.h</key>
@@ -128,176 +96,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VlTX+/MFcGhIfdPM/6dW9rZTMSg=
+			h0HAhsRbYPwBk5pHhot2MVIkUxs=
 			</data>
 			<key>hash2</key>
 			<data>
-			tClOhmN62XG23DGsAM0euz3D0W9h0g9HNrp4i8ATr+8=
-			</data>
-		</dict>
-		<key>Modules/fluttercontactpicker.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VlTX+/MFcGhIfdPM/6dW9rZTMSg=
-			</data>
-			<key>hash2</key>
-			<data>
-			tClOhmN62XG23DGsAM0euz3D0W9h0g9HNrp4i8ATr+8=
+			A+QZZfpdFHhvvwl4AtyY8eatYq2ZV8S1fhBrWBI392I=
 			</data>
 		</dict>
 		<key>Modules/fluttercontactpicker.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BUkEM5MncIOIUfMNdF2mIPr8U1Q=
+			9Is5zwc5iKauWfrRq17bnt9tWPk=
 			</data>
 			<key>hash2</key>
 			<data>
-			OrbmT0u0/zkg+bXyuGin3o/AEcnYjPUMu2PRWpSYFIs=
-			</data>
-		</dict>
-		<key>Modules/fluttercontactpicker.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BUkEM5MncIOIUfMNdF2mIPr8U1Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			OrbmT0u0/zkg+bXyuGin3o/AEcnYjPUMu2PRWpSYFIs=
+			0H+pw0ggTLtIJ+d/Q23mP0C+lZvot7ZfyJRrdw4cG/4=
 			</data>
 		</dict>
 		<key>Modules/fluttercontactpicker.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RiM6vmmfSqt6SCl1uqsert852Rw=
+			dxpKxMNicbGPnMNqukFq1Y/+ZjA=
 			</data>
 			<key>hash2</key>
 			<data>
-			u+LIO4JI0im8Ym+kWczWFRHQphgJrCmusncx9JrqX0I=
+			2TOd7Zj0DYL1VK7eiXd4zWm0dYQI6Sp3kOZbtEFFjF8=
 			</data>
 		</dict>
 		<key>Modules/fluttercontactpicker.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UW67ddtdX4gdmaPXVUxfj8S7Yv4=
+			lysqD1cAswf5c3rqlv2q1A1lHaA=
 			</data>
 			<key>hash2</key>
 			<data>
-			eCepPAvpNXtzVzXDFzKYvkfkfRkOI9wxtdBs8Pq3Kec=
+			g1E1Olh5gjbGOA412+/VD/O7HcU0t5NFAakTbEZq1y8=
 			</data>
 		</dict>
 		<key>Modules/fluttercontactpicker.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9CcynXYc8/8Q0U+0hsyG2IBqwBw=
+			p7DJIHO91QXsxOHB61iHl3wi4A8=
 			</data>
 			<key>hash2</key>
 			<data>
-			v9LZ7yTXM/SJWkmiAXZDHv2qUjJ2PwPuAGCHvVbCRCo=
-			</data>
-		</dict>
-		<key>Modules/fluttercontactpicker.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RiM6vmmfSqt6SCl1uqsert852Rw=
-			</data>
-			<key>hash2</key>
-			<data>
-			u+LIO4JI0im8Ym+kWczWFRHQphgJrCmusncx9JrqX0I=
-			</data>
-		</dict>
-		<key>Modules/fluttercontactpicker.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UW67ddtdX4gdmaPXVUxfj8S7Yv4=
-			</data>
-			<key>hash2</key>
-			<data>
-			eCepPAvpNXtzVzXDFzKYvkfkfRkOI9wxtdBs8Pq3Kec=
-			</data>
-		</dict>
-		<key>Modules/fluttercontactpicker.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9CcynXYc8/8Q0U+0hsyG2IBqwBw=
-			</data>
-			<key>hash2</key>
-			<data>
-			v9LZ7yTXM/SJWkmiAXZDHv2qUjJ2PwPuAGCHvVbCRCo=
+			shLf2G8Tn6TwfIzIPILJseUZ7oLBXAg5GNKjgtvbN8M=
 			</data>
 		</dict>
 		<key>Modules/fluttercontactpicker.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vkrvEUAjDHU4rZL6PQrWMbERGDw=
+			Q/JKXpU+jRSy3rBN7lh3xwCxmoY=
 			</data>
 			<key>hash2</key>
 			<data>
-			m4wCzdyNyWi8pwjpqR1IidsdZV35o2hLnBMh8prQiCY=
+			Y7g95Vrn0Ze5LDElcGnED14JTL+Zpwjj5EAt5O5kI/8=
 			</data>
 		</dict>
 		<key>Modules/fluttercontactpicker.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+4sGaiZWP/UEEWQJfT/K9IwErpM=
+			HG+vHuYcwjnKfVO3oYdtP7E9OnI=
 			</data>
 			<key>hash2</key>
 			<data>
-			a9Xt2/9ZPiHtbeAsKFOk28Uus+sx7ERgtWQsXLdnCjA=
+			HL2bHSq/A7ULWDycfmPJ/gyroZMOaOr4KOn/b7kCPkE=
 			</data>
 		</dict>
 		<key>Modules/fluttercontactpicker.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BjcfGTkvVPG+XN0HVyF/vh6Xpys=
+			kE5jMVdooDBej5l1233fMrkscys=
 			</data>
 			<key>hash2</key>
 			<data>
-			CnSQiG6Ue8TVg/4BeCWmdGAb5imMbEeKQQ+fFX2Sq8g=
-			</data>
-		</dict>
-		<key>Modules/fluttercontactpicker.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vkrvEUAjDHU4rZL6PQrWMbERGDw=
-			</data>
-			<key>hash2</key>
-			<data>
-			m4wCzdyNyWi8pwjpqR1IidsdZV35o2hLnBMh8prQiCY=
-			</data>
-		</dict>
-		<key>Modules/fluttercontactpicker.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+4sGaiZWP/UEEWQJfT/K9IwErpM=
-			</data>
-			<key>hash2</key>
-			<data>
-			a9Xt2/9ZPiHtbeAsKFOk28Uus+sx7ERgtWQsXLdnCjA=
-			</data>
-		</dict>
-		<key>Modules/fluttercontactpicker.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BjcfGTkvVPG+XN0HVyF/vh6Xpys=
-			</data>
-			<key>hash2</key>
-			<data>
-			CnSQiG6Ue8TVg/4BeCWmdGAb5imMbEeKQQ+fFX2Sq8g=
+			46SYaHwizH2wkBRzebbJR6tAr7/e3I6loyxAOS4bJy8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

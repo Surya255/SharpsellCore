@@ -15,19 +15,10 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         //         .package(url: "https://github.com/firebase/firebase-ios-sdk.git", from: "8.12.1"),
-        //        .Package(url: "https://github.com/firebase/firebase-ios-sdk.git", .upToNextMajor(from: "8.12.1"))
-        .package(url: "https://github.com/firebase/firebase-ios-sdk.git", .upToNextMajor(from: "8.12.1"))
+//                .Package(url: "https://github.com/firebase/firebase-ios-sdk.git", .upToNextMajor(from: "8.12.1"))
+//        .package(url: "https://github.com/firebase/firebase-ios-sdk.git", .upToNextMajor(from: "8.12.1"))
     ],
     targets: [
-        
-        //        .binaryTarget(name: "Flutter",
-        //                      url: "https://github.com/Surya255/SharpsellCore/releases/download/HDFC_D_V_0.0.1/Flutter.xcframework.zip",
-        //                      checksum: "ce1691fa298e1ebba84911561d3da5be45186e291f0307eaf7fc12df052cf2a3"),
-        //
-        //        .binaryTarget(name: "App",
-        //                          url: "https://github.com/Surya255/SharpsellCore/releases/download/HDFC_D_V_0.0.1/App.xcframework.zip",
-        //                          checksum: "0b6030662188e158413de04abcbcebd9dc130470ea21c250840343caccd8e46b"),
-        
         .target(
             name: "SharpsellCore",
             dependencies: [
@@ -36,8 +27,8 @@ let package = Package(
                 //                "App",
                 "audio_session",
                 "awesome_notifications",
-                "camera",
-                "connectivity",
+                "camera_avfoundation",
+                "connectivity_plus",
                 "contacts_service",
                 "device_info_plus",
                 //                                "FBLPromises",
@@ -51,34 +42,34 @@ let package = Package(
                 //                                "FirebaseCrashlytics",
                 //                                "FirebaseInstallations",
                 //                                "FirebaseMessaging",
-                    .product(name: "FirebaseMessaging", package: "firebase-ios-sdk"),
-                .product(name: "FirebaseCrashlytics", package: "firebase-ios-sdk"),
-                .product(name: "FirebaseAnalytics", package: "firebase-ios-sdk"),
+//                .product(name: "FirebaseMessaging", package: "firebase-ios-sdk"),
+//                .product(name: "FirebaseCrashlytics", package: "firebase-ios-sdk"),
+//                .product(name: "FirebaseAnalytics", package: "firebase-ios-sdk"),
                 "flutter_custom_tabs",
                 "flutter_inappwebview",
                 "fluttercontactpicker",
                 "fluttertoast",
-                "FMDB",
+//                "FMDB",
                 //                                "GoogleAppMeasurement",
                 //                                "GoogleDataTransport",
-                "GoogleUtilities",
+//                "GoogleUtilities",
                 "image_cropper",
-                "image_picker",
+                "image_picker_ios",
                 "just_audio",
                 "libwebp",
                 "light_compressor",
                 //                "nanopb",
-                "native_pdf_renderer",
                 "open_file",
                 "OrderedSet",
-                "package_info",
-                "path_provider",
-                "permission_handler",
+                "package_info_plus",
+                "path_provider_ios",
+                "permission_handler_apple",
+                "pdfx",
                 "Reachability",
                 "share_extend",
                 "share_plus",
                 "share",
-                "shared_preferences",
+                "shared_preferences_ios",
                 "sharpsell",
                 "sqflite",
                 "sqlite3_flutter_libs",
@@ -86,8 +77,9 @@ let package = Package(
                 "store_redirect",
                 "Toast",
                 "TOCropViewController",
-                "url_launcher",
-                "video_player",
+                "uni_links",
+                "url_launcher_ios",
+                "video_player_avfoundation",
                 "video_thumbnail",
                 "wakelock",
                 "webview_flutter_wkwebview"
@@ -106,11 +98,11 @@ let package = Package(
             .binaryTarget(name: "awesome_notifications",
                           path: "artifacts/awesome_notifications.xcframework"),
         
-            .binaryTarget(name: "camera",
-                          path: "artifacts/camera.xcframework"),
+            .binaryTarget(name: "camera_avfoundation",
+                          path: "artifacts/camera_avfoundation.xcframework"),
         
-            .binaryTarget(name: "connectivity",
-                          path: "artifacts/connectivity.xcframework"),
+            .binaryTarget(name: "connectivity_plus",
+                          path: "artifacts/connectivity_plus.xcframework"),
         
             .binaryTarget(name: "contacts_service",
                           path: "artifacts/contacts_service.xcframework"),
@@ -163,8 +155,8 @@ let package = Package(
             .binaryTarget(name: "fluttertoast",
                           path: "artifacts/fluttertoast.xcframework"),
         
-            .binaryTarget(name: "FMDB",
-                          path: "artifacts/FMDB.xcframework"),
+//            .binaryTarget(name: "FMDB",
+//                          path: "artifacts/FMDB.xcframework"),
         
         //            .binaryTarget(name: "GoogleAppMeasurement",
         //                          path: "artifacts/GoogleAppMeasurement.xcframework"),
@@ -172,14 +164,14 @@ let package = Package(
         //            .binaryTarget(name: "GoogleDataTransport",
         //                          path: "artifacts/GoogleDataTransport.xcframework"),
         
-            .binaryTarget(name: "GoogleUtilities",
-                          path: "artifacts/GoogleUtilities.xcframework"),
+//            .binaryTarget(name: "GoogleUtilities",
+//                          path: "artifacts/GoogleUtilities.xcframework"),
         
             .binaryTarget(name: "image_cropper",
                           path: "artifacts/image_cropper.xcframework"),
         
-            .binaryTarget(name: "image_picker",
-                          path: "artifacts/image_picker.xcframework"),
+            .binaryTarget(name: "image_picker_ios",
+                          path: "artifacts/image_picker_ios.xcframework"),
         
             .binaryTarget(name: "just_audio",
                           path: "artifacts/just_audio.xcframework"),
@@ -193,23 +185,23 @@ let package = Package(
         //            .binaryTarget(name: "nanopb",
         //                          path: "artifacts/nanopb.xcframework"),
         
-            .binaryTarget(name: "native_pdf_renderer",
-                          path: "artifacts/native_pdf_renderer.xcframework"),
-        
             .binaryTarget(name: "open_file",
                           path: "artifacts/open_file.xcframework"),
         
             .binaryTarget(name: "OrderedSet",
                           path: "artifacts/OrderedSet.xcframework"),
         
-            .binaryTarget(name: "package_info",
-                          path: "artifacts/package_info.xcframework"),
+            .binaryTarget(name: "pdfx",
+                          path: "artifacts/pdfx.xcframework"),
         
-            .binaryTarget(name: "path_provider",
-                          path: "artifacts/path_provider.xcframework"),
+            .binaryTarget(name: "package_info_plus",
+                          path: "artifacts/package_info_plus.xcframework"),
         
-            .binaryTarget(name: "permission_handler",
-                          path: "artifacts/permission_handler.xcframework"),
+            .binaryTarget(name: "path_provider_ios",
+                          path: "artifacts/path_provider_ios.xcframework"),
+        
+            .binaryTarget(name: "permission_handler_apple",
+                          path: "artifacts/permission_handler_apple.xcframework"),
         
             .binaryTarget(name: "Reachability",
                           path: "artifacts/Reachability.xcframework"),
@@ -223,8 +215,8 @@ let package = Package(
             .binaryTarget(name: "share",
                           path: "artifacts/share.xcframework"),
         
-            .binaryTarget(name: "shared_preferences",
-                          path: "artifacts/shared_preferences.xcframework"),
+            .binaryTarget(name: "shared_preferences_ios",
+                          path: "artifacts/shared_preferences_ios.xcframework"),
         
             .binaryTarget(name: "sharpsell",
                           path: "artifacts/sharpsell.xcframework"),
@@ -247,11 +239,14 @@ let package = Package(
             .binaryTarget(name: "TOCropViewController",
                           path: "artifacts/TOCropViewController.xcframework"),
         
-            .binaryTarget(name: "url_launcher",
-                          path: "artifacts/url_launcher.xcframework"),
+            .binaryTarget(name: "uni_links",
+                          path: "artifacts/uni_links.xcframework"),
         
-            .binaryTarget(name: "video_player",
-                          path: "artifacts/video_player.xcframework"),
+            .binaryTarget(name: "url_launcher_ios",
+                          path: "artifacts/url_launcher_ios.xcframework"),
+        
+            .binaryTarget(name: "video_player_avfoundation",
+                          path: "artifacts/video_player_avfoundation.xcframework"),
         
             .binaryTarget(name: "video_thumbnail",
                           path: "artifacts/video_thumbnail.xcframework"),

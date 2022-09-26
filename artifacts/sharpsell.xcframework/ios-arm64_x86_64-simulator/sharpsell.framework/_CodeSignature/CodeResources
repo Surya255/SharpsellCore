@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/sharpsell-Swift.h</key>
 		<data>
-		adE4pUCem5JPbUvuGItkLQZOPvQ=
+		UAXclinmq/TTWMBSefMQfVxo2KE=
 		</data>
 		<key>Headers/sharpsell-umbrella.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		1S8PkiEnqPx/X4XRg+zl9uPNVl4=
+		JLq/+vEvKiJFIE4yeVybhCEeygc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -26,67 +26,35 @@
 		</data>
 		<key>Modules/sharpsell.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		PoI/zZKMY2zu1JhywBSQmc4Pj2M=
-		</data>
-		<key>Modules/sharpsell.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		PoI/zZKMY2zu1JhywBSQmc4Pj2M=
+		fDIMXfCrtBLP9peLG+oGM9z8Y9E=
 		</data>
 		<key>Modules/sharpsell.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		7WwD60edhVBTegB+yKkz56CSujI=
-		</data>
-		<key>Modules/sharpsell.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		7WwD60edhVBTegB+yKkz56CSujI=
+		jbAT1NJYUpdkYARiO0kjBHTG758=
 		</data>
 		<key>Modules/sharpsell.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		9ptFPTBSbfL4LA6sCW72dxhMmCI=
+		w+uu/19OQN1q/XOn3qoTv0oW9UU=
 		</data>
 		<key>Modules/sharpsell.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		TB2k5rrXoDi3Z5jkq+W5uinw5wU=
+		lT4GIcQuiHHY10+gg6M378FxCW4=
 		</data>
 		<key>Modules/sharpsell.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		sbgGpfoV+32ptUO3wXnqqwdW13Q=
-		</data>
-		<key>Modules/sharpsell.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		9ptFPTBSbfL4LA6sCW72dxhMmCI=
-		</data>
-		<key>Modules/sharpsell.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		TB2k5rrXoDi3Z5jkq+W5uinw5wU=
-		</data>
-		<key>Modules/sharpsell.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		sbgGpfoV+32ptUO3wXnqqwdW13Q=
+		BU/HEp6AyLBrjJZLVqzQahcQEvI=
 		</data>
 		<key>Modules/sharpsell.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Q2/eMkcJpaKdin+vcDDylNXhctQ=
+		+StPTTNqzkPkH58GNdHhWnmv1b4=
 		</data>
 		<key>Modules/sharpsell.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		28P30lKxE54AMGuYrOk8XyzkRbE=
+		K0gjoVMHdwFzpHjUS+alVPgOq4o=
 		</data>
 		<key>Modules/sharpsell.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GBMoime5C0iJDooSD5fc7g5jyU0=
-		</data>
-		<key>Modules/sharpsell.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		Q2/eMkcJpaKdin+vcDDylNXhctQ=
-		</data>
-		<key>Modules/sharpsell.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		28P30lKxE54AMGuYrOk8XyzkRbE=
-		</data>
-		<key>Modules/sharpsell.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		GBMoime5C0iJDooSD5fc7g5jyU0=
+		owm1AUAZrKlRyZoxa0K+WMTxhPs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -106,11 +74,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			adE4pUCem5JPbUvuGItkLQZOPvQ=
+			UAXclinmq/TTWMBSefMQfVxo2KE=
 			</data>
 			<key>hash2</key>
 			<data>
-			yv09ALuZNwCIMAZrIGmUnxo51bHpgZ+oocJl3j/uKEw=
+			csTp4zLdg6qsURJxus5GKEy4yrlwvjF0CVHAfs1kPKA=
 			</data>
 		</dict>
 		<key>Headers/sharpsell-umbrella.h</key>
@@ -139,176 +107,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PoI/zZKMY2zu1JhywBSQmc4Pj2M=
+			fDIMXfCrtBLP9peLG+oGM9z8Y9E=
 			</data>
 			<key>hash2</key>
 			<data>
-			ybDck86kZ93y7xCTxWG5i8FbHij+bptlvs57vcm+e50=
-			</data>
-		</dict>
-		<key>Modules/sharpsell.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PoI/zZKMY2zu1JhywBSQmc4Pj2M=
-			</data>
-			<key>hash2</key>
-			<data>
-			ybDck86kZ93y7xCTxWG5i8FbHij+bptlvs57vcm+e50=
+			ZX16jQ65X93f4g6cWub8DeCLSLeCTRAGS14jsGY0NOc=
 			</data>
 		</dict>
 		<key>Modules/sharpsell.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7WwD60edhVBTegB+yKkz56CSujI=
+			jbAT1NJYUpdkYARiO0kjBHTG758=
 			</data>
 			<key>hash2</key>
 			<data>
-			HozH4+EWGZrJaiAGsXFlqsE8rNafnvcn/KJo0J7ziyA=
-			</data>
-		</dict>
-		<key>Modules/sharpsell.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7WwD60edhVBTegB+yKkz56CSujI=
-			</data>
-			<key>hash2</key>
-			<data>
-			HozH4+EWGZrJaiAGsXFlqsE8rNafnvcn/KJo0J7ziyA=
+			fmA9vxatrg5WXNvMOp+BQbCPQ1qTzR0mzwWC8VTkVwg=
 			</data>
 		</dict>
 		<key>Modules/sharpsell.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9ptFPTBSbfL4LA6sCW72dxhMmCI=
+			w+uu/19OQN1q/XOn3qoTv0oW9UU=
 			</data>
 			<key>hash2</key>
 			<data>
-			PtK1fL9N5Tlr7Gazza6rJU3E6lqllIuzALJy3QpJcUw=
+			SMiuYyjzsD0Nuwcdv6anU4jLRsjD9pWd39r1qEL3XRU=
 			</data>
 		</dict>
 		<key>Modules/sharpsell.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TB2k5rrXoDi3Z5jkq+W5uinw5wU=
+			lT4GIcQuiHHY10+gg6M378FxCW4=
 			</data>
 			<key>hash2</key>
 			<data>
-			vFBUJ/HTnrvf/CbzRLdiuyQRCqI2OGHGtERaZF19sDQ=
+			YqT1AVrLZkrUiieBKiM5M3b64Q9SbbRqAfQAX25KiAQ=
 			</data>
 		</dict>
 		<key>Modules/sharpsell.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sbgGpfoV+32ptUO3wXnqqwdW13Q=
+			BU/HEp6AyLBrjJZLVqzQahcQEvI=
 			</data>
 			<key>hash2</key>
 			<data>
-			NwXvTpcxdeWq3uz+2I9nMq8PnymS/6CkxuXczncEA8U=
-			</data>
-		</dict>
-		<key>Modules/sharpsell.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9ptFPTBSbfL4LA6sCW72dxhMmCI=
-			</data>
-			<key>hash2</key>
-			<data>
-			PtK1fL9N5Tlr7Gazza6rJU3E6lqllIuzALJy3QpJcUw=
-			</data>
-		</dict>
-		<key>Modules/sharpsell.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TB2k5rrXoDi3Z5jkq+W5uinw5wU=
-			</data>
-			<key>hash2</key>
-			<data>
-			vFBUJ/HTnrvf/CbzRLdiuyQRCqI2OGHGtERaZF19sDQ=
-			</data>
-		</dict>
-		<key>Modules/sharpsell.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sbgGpfoV+32ptUO3wXnqqwdW13Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			NwXvTpcxdeWq3uz+2I9nMq8PnymS/6CkxuXczncEA8U=
+			JMIjcj1TQd0pq9jv4IDqX/CCbkPqsfUkZaAsTU0HNzc=
 			</data>
 		</dict>
 		<key>Modules/sharpsell.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q2/eMkcJpaKdin+vcDDylNXhctQ=
+			+StPTTNqzkPkH58GNdHhWnmv1b4=
 			</data>
 			<key>hash2</key>
 			<data>
-			qeoGXtStR9DVhUoffQgeUnGPkOwtZDCA8MJWSKz/dJg=
+			feLgHsH+nsFn9nya4LhTUdmVWgmDPh3epAUlesIDbTQ=
 			</data>
 		</dict>
 		<key>Modules/sharpsell.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			28P30lKxE54AMGuYrOk8XyzkRbE=
+			K0gjoVMHdwFzpHjUS+alVPgOq4o=
 			</data>
 			<key>hash2</key>
 			<data>
-			jVTZKeUxx+3+j6VGkUiHyz/Iqx5U7lL4DCjVCkqjs4s=
+			iUSSIDdMog2x0Dd9+EGnNq8WnIYALo7tUt3pRm7X/FY=
 			</data>
 		</dict>
 		<key>Modules/sharpsell.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GBMoime5C0iJDooSD5fc7g5jyU0=
+			owm1AUAZrKlRyZoxa0K+WMTxhPs=
 			</data>
 			<key>hash2</key>
 			<data>
-			lNKcUrMnIQxCkSqf2r/+ZdXbaS5MJMIIcn+4/YyV2gA=
-			</data>
-		</dict>
-		<key>Modules/sharpsell.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Q2/eMkcJpaKdin+vcDDylNXhctQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			qeoGXtStR9DVhUoffQgeUnGPkOwtZDCA8MJWSKz/dJg=
-			</data>
-		</dict>
-		<key>Modules/sharpsell.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			28P30lKxE54AMGuYrOk8XyzkRbE=
-			</data>
-			<key>hash2</key>
-			<data>
-			jVTZKeUxx+3+j6VGkUiHyz/Iqx5U7lL4DCjVCkqjs4s=
-			</data>
-		</dict>
-		<key>Modules/sharpsell.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GBMoime5C0iJDooSD5fc7g5jyU0=
-			</data>
-			<key>hash2</key>
-			<data>
-			lNKcUrMnIQxCkSqf2r/+ZdXbaS5MJMIIcn+4/YyV2gA=
+			k3aJiUFuRWE5/UpOmZHdoPm61k4GWsNkmoUr41CANwc=
 			</data>
 		</dict>
 	</dict>

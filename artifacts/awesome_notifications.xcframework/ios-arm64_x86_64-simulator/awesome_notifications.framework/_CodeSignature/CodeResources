@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/awesome_notifications-Swift.h</key>
 		<data>
-		XIqDX0KKIPk2k30xbIw1MT/ZegY=
+		fUSkYaiarmV8oJZU9CrocyZQMUc=
 		</data>
 		<key>Headers/awesome_notifications-umbrella.h</key>
 		<data>
@@ -18,71 +18,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IieHFCX+/twUclylDqn1zCixElg=
+		6FvykAO2PU7X/iVBXWBhvLKRHn4=
 		</data>
 		<key>Modules/awesome_notifications.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		PrLvr0EbTk1m+w1uH1Ir5hhjmrM=
-		</data>
-		<key>Modules/awesome_notifications.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		PrLvr0EbTk1m+w1uH1Ir5hhjmrM=
+		ix4mcJoOv3K+WjuVpmaJMQuDwNA=
 		</data>
 		<key>Modules/awesome_notifications.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		TU8ifRKhlihtTXJNm202eIfkcXc=
-		</data>
-		<key>Modules/awesome_notifications.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		TU8ifRKhlihtTXJNm202eIfkcXc=
+		DTAEvSRWkrm67/NLcCgnT5yO8yo=
 		</data>
 		<key>Modules/awesome_notifications.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		pxG0zogbhXOqVMRayXlQy3PY9HE=
+		ZBsucPT9pA7pLfnQVdUimYnZWJ4=
 		</data>
 		<key>Modules/awesome_notifications.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		VTdXDjqA7zjwaXjU6X4BesCpDCA=
+		fOL4a7pLjaV+CvhD3wN7E0Ejsg8=
 		</data>
 		<key>Modules/awesome_notifications.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Kt7xge6ZcDYsKBzkAucmPfukRXA=
-		</data>
-		<key>Modules/awesome_notifications.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		pxG0zogbhXOqVMRayXlQy3PY9HE=
-		</data>
-		<key>Modules/awesome_notifications.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		VTdXDjqA7zjwaXjU6X4BesCpDCA=
-		</data>
-		<key>Modules/awesome_notifications.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		Kt7xge6ZcDYsKBzkAucmPfukRXA=
+		y8mGUbyUrHA7xCS/yrJ+4SP5cbg=
 		</data>
 		<key>Modules/awesome_notifications.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		QHBjMvKx0H2D+oVX+OpwAxOS6QM=
+		aqhAudldFga9EnQuNM945rRvG8Y=
 		</data>
 		<key>Modules/awesome_notifications.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		CZYlN5ebNu3wxWGsXZjZs/SEOcI=
+		13MFM4jzDsP5/vpc5Kk3RE0k5jc=
 		</data>
 		<key>Modules/awesome_notifications.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Sv6rhBE0TRYoIMCSCpNwRWOu0o0=
-		</data>
-		<key>Modules/awesome_notifications.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		QHBjMvKx0H2D+oVX+OpwAxOS6QM=
-		</data>
-		<key>Modules/awesome_notifications.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		CZYlN5ebNu3wxWGsXZjZs/SEOcI=
-		</data>
-		<key>Modules/awesome_notifications.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		Sv6rhBE0TRYoIMCSCpNwRWOu0o0=
+		sXbLtcKF4vw0fhLuomplhUsWgrE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -106,11 +74,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XIqDX0KKIPk2k30xbIw1MT/ZegY=
+			fUSkYaiarmV8oJZU9CrocyZQMUc=
 			</data>
 			<key>hash2</key>
 			<data>
-			jTvBJHY3zlzfEEtzdqhh0jfcXBfT3vo8Yrhif2tcPIg=
+			zenljas4FMXI+lpn+6mbln5p86hdaWdk3tlVn7SGXcI=
 			</data>
 		</dict>
 		<key>Headers/awesome_notifications-umbrella.h</key>
@@ -128,176 +96,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PrLvr0EbTk1m+w1uH1Ir5hhjmrM=
+			ix4mcJoOv3K+WjuVpmaJMQuDwNA=
 			</data>
 			<key>hash2</key>
 			<data>
-			38quMUAVpR1BtOzuNVpisE8+enjsY0saKSthQuXsNiE=
-			</data>
-		</dict>
-		<key>Modules/awesome_notifications.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PrLvr0EbTk1m+w1uH1Ir5hhjmrM=
-			</data>
-			<key>hash2</key>
-			<data>
-			38quMUAVpR1BtOzuNVpisE8+enjsY0saKSthQuXsNiE=
+			1VpWQmmQjkxhngCURqZ8RTpH0KrQmdu2Znype8oeZlc=
 			</data>
 		</dict>
 		<key>Modules/awesome_notifications.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TU8ifRKhlihtTXJNm202eIfkcXc=
+			DTAEvSRWkrm67/NLcCgnT5yO8yo=
 			</data>
 			<key>hash2</key>
 			<data>
-			XY5xKzd/YPiCcnJ1HxlXVg+qyPDSD4n2yKNF8r8mFfA=
-			</data>
-		</dict>
-		<key>Modules/awesome_notifications.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TU8ifRKhlihtTXJNm202eIfkcXc=
-			</data>
-			<key>hash2</key>
-			<data>
-			XY5xKzd/YPiCcnJ1HxlXVg+qyPDSD4n2yKNF8r8mFfA=
+			HoMNOTsHbPQG5TUXPxl2ZdfwOxG4uzyZTX+MOf9F9Fs=
 			</data>
 		</dict>
 		<key>Modules/awesome_notifications.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pxG0zogbhXOqVMRayXlQy3PY9HE=
+			ZBsucPT9pA7pLfnQVdUimYnZWJ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			9fz/GMT4ntjQjTENIf38xqWxGNsH8aDVYTlfPBTnpmo=
+			RqdFkmi/tEGkPORs0D+/7d1dkzv0AhYya9cPpYGRwfY=
 			</data>
 		</dict>
 		<key>Modules/awesome_notifications.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VTdXDjqA7zjwaXjU6X4BesCpDCA=
+			fOL4a7pLjaV+CvhD3wN7E0Ejsg8=
 			</data>
 			<key>hash2</key>
 			<data>
-			j6q6OZ+4MBK5s8tEhNuEo7s5QCQO03sXfDoDgUqiq8g=
+			Xf665AzoBVGXqslZOA+9VLqQFqBWSwYeUsOThlHcoy4=
 			</data>
 		</dict>
 		<key>Modules/awesome_notifications.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Kt7xge6ZcDYsKBzkAucmPfukRXA=
+			y8mGUbyUrHA7xCS/yrJ+4SP5cbg=
 			</data>
 			<key>hash2</key>
 			<data>
-			gfbpFZNAnuSqpoFas2oOWwNsBQzLiBLdJv88VD4jkfI=
-			</data>
-		</dict>
-		<key>Modules/awesome_notifications.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pxG0zogbhXOqVMRayXlQy3PY9HE=
-			</data>
-			<key>hash2</key>
-			<data>
-			9fz/GMT4ntjQjTENIf38xqWxGNsH8aDVYTlfPBTnpmo=
-			</data>
-		</dict>
-		<key>Modules/awesome_notifications.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VTdXDjqA7zjwaXjU6X4BesCpDCA=
-			</data>
-			<key>hash2</key>
-			<data>
-			j6q6OZ+4MBK5s8tEhNuEo7s5QCQO03sXfDoDgUqiq8g=
-			</data>
-		</dict>
-		<key>Modules/awesome_notifications.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Kt7xge6ZcDYsKBzkAucmPfukRXA=
-			</data>
-			<key>hash2</key>
-			<data>
-			gfbpFZNAnuSqpoFas2oOWwNsBQzLiBLdJv88VD4jkfI=
+			OxXXU/MjvrEPUVXPoJ+IbZw0hdzDENzdF+R35/FSNyM=
 			</data>
 		</dict>
 		<key>Modules/awesome_notifications.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QHBjMvKx0H2D+oVX+OpwAxOS6QM=
+			aqhAudldFga9EnQuNM945rRvG8Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			JT6lLK4yGqbWNcnPCenUxxXlUDAYwXo+pdkSduwH9RM=
+			/iyAA3MxSyvu9qATQzjkSKrx1kOHxReUQMNfSzAD7kg=
 			</data>
 		</dict>
 		<key>Modules/awesome_notifications.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CZYlN5ebNu3wxWGsXZjZs/SEOcI=
+			13MFM4jzDsP5/vpc5Kk3RE0k5jc=
 			</data>
 			<key>hash2</key>
 			<data>
-			TjnVyEMNOgN78pDQUBZgL0Y0lezH6a29Xzbm6vBPTxQ=
+			oelBNdkoszxupb4KMNlAa3KYXddJcScPBBYnM0/z6QM=
 			</data>
 		</dict>
 		<key>Modules/awesome_notifications.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Sv6rhBE0TRYoIMCSCpNwRWOu0o0=
+			sXbLtcKF4vw0fhLuomplhUsWgrE=
 			</data>
 			<key>hash2</key>
 			<data>
-			vqvckpKFN9RLC1h/HV1LFg3uaay35Nktt876skzoMYU=
-			</data>
-		</dict>
-		<key>Modules/awesome_notifications.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QHBjMvKx0H2D+oVX+OpwAxOS6QM=
-			</data>
-			<key>hash2</key>
-			<data>
-			JT6lLK4yGqbWNcnPCenUxxXlUDAYwXo+pdkSduwH9RM=
-			</data>
-		</dict>
-		<key>Modules/awesome_notifications.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CZYlN5ebNu3wxWGsXZjZs/SEOcI=
-			</data>
-			<key>hash2</key>
-			<data>
-			TjnVyEMNOgN78pDQUBZgL0Y0lezH6a29Xzbm6vBPTxQ=
-			</data>
-		</dict>
-		<key>Modules/awesome_notifications.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Sv6rhBE0TRYoIMCSCpNwRWOu0o0=
-			</data>
-			<key>hash2</key>
-			<data>
-			vqvckpKFN9RLC1h/HV1LFg3uaay35Nktt876skzoMYU=
+			KGI0d9EKSh3tskulfCUJFVx6imLrQ1dMYHGFHDTMzK4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
